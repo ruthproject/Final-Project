@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\rutti\\react\\for the project\\end-project\\server\\DAL\\DAL.csproj": {}
+  },
+  "projects": {
+    "E:\\rutti\\react\\for the project\\end-project\\server\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\rutti\\react\\for the project\\end-project\\server\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "E:\\rutti\\react\\for the project\\end-project\\server\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "E:\\rutti\\react\\for the project\\end-project\\server\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "E:\\rutti\\react\\for the project\\end-project\\server\\DTO\\DTO.csproj": {
+                "projectPath": "E:\\rutti\\react\\for the project\\end-project\\server\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\rutti\\react\\for the project\\end-project\\server\\DTO\\DTO.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\rutti\\react\\for the project\\end-project\\server\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "E:\\rutti\\react\\for the project\\end-project\\server\\DTO\\DTO.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

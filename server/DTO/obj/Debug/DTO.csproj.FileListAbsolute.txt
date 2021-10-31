@@ -1,0 +1,30 @@
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DTO\bin\Debug\DTO.dll
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DTO\bin\Debug\DTO.pdb
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DTO\obj\Debug\DTO.dll
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DTO\obj\Debug\DTO.pdb
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DTO\bin\Debug\DTO.dll
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DTO\bin\Debug\DTO.pdb
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DTO\obj\Debug\DTO.dll
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DTO\obj\Debug\DTO.pdb
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\esty\technut\final\FinalProject\DTO\bin\Debug\DTO.dll
+F:\esty\technut\final\FinalProject\DTO\bin\Debug\DTO.pdb
+F:\esty\technut\final\FinalProject\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\esty\technut\final\FinalProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\esty\technut\final\FinalProject\DTO\obj\Debug\DTO.dll
+F:\esty\technut\final\FinalProject\DTO\obj\Debug\DTO.pdb
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DTO\bin\Debug\DTO.dll
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DTO\bin\Debug\DTO.pdb
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DTO\obj\Debug\DTO.dll
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DTO\obj\Debug\DTO.pdb
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DTO\bin\Debug\DTO.dll
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DTO\bin\Debug\DTO.pdb
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DTO\obj\Debug\DTO.dll
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DTO\obj\Debug\DTO.pdb

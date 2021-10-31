@@ -1,0 +1,90 @@
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\bin\Debug\DAL.dll.config
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\bin\Debug\DAL.dll
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\bin\Debug\DAL.pdb
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\bin\Debug\DTO.dll
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\bin\Debug\EntityFramework.dll
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\bin\Debug\DTO.pdb
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\bin\Debug\EntityFramework.xml
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\obj\Debug\DAL.dll
+Y:\תשפא\1\פרנקרייך אסתי\פרויקט סיום\FinalProject\DAL\obj\Debug\DAL.pdb
+E:\technut\FinalProject\DAL\bin\Debug\DAL.dll.config
+E:\technut\FinalProject\DAL\bin\Debug\DAL.dll
+E:\technut\FinalProject\DAL\bin\Debug\DAL.pdb
+E:\technut\FinalProject\DAL\bin\Debug\DTO.dll
+E:\technut\FinalProject\DAL\bin\Debug\EntityFramework.dll
+E:\technut\FinalProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\technut\FinalProject\DAL\bin\Debug\DTO.pdb
+E:\technut\FinalProject\DAL\bin\Debug\EntityFramework.xml
+E:\technut\FinalProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\technut\FinalProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\technut\FinalProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\technut\FinalProject\DAL\obj\Debug\DAL.dll
+E:\technut\FinalProject\DAL\obj\Debug\DAL.pdb
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\bin\Debug\DAL.dll.config
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\bin\Debug\DAL.dll
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\bin\Debug\DAL.pdb
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\bin\Debug\DTO.dll
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\bin\Debug\EntityFramework.dll
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\bin\Debug\DTO.pdb
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\bin\Debug\EntityFramework.xml
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\obj\Debug\DAL.dll
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\obj\Debug\DAL.pdb
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\תשפא\1\פרנקרייך אסתי\finalProject\FinalProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\esty\technut\final\FinalProject\DAL\bin\Debug\DAL.dll.config
+F:\esty\technut\final\FinalProject\DAL\bin\Debug\DAL.dll
+F:\esty\technut\final\FinalProject\DAL\bin\Debug\DAL.pdb
+F:\esty\technut\final\FinalProject\DAL\bin\Debug\DTO.dll
+F:\esty\technut\final\FinalProject\DAL\bin\Debug\EntityFramework.dll
+F:\esty\technut\final\FinalProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\esty\technut\final\FinalProject\DAL\bin\Debug\DTO.pdb
+F:\esty\technut\final\FinalProject\DAL\bin\Debug\EntityFramework.xml
+F:\esty\technut\final\FinalProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\esty\technut\final\FinalProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\esty\technut\final\FinalProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\esty\technut\final\FinalProject\DAL\obj\Debug\DAL.dll
+F:\esty\technut\final\FinalProject\DAL\obj\Debug\DAL.pdb
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\obj\Debug\DAL.dll
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\obj\Debug\DAL.pdb
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\DAL.dll.config
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\DAL.dll
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\DAL.pdb
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\EntityFramework.dll
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\DTO.dll
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\DTO.pdb
+E:\תקיות משתמש\Desktop\פרויקט\‏‏FinalProject - עותק\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\DAL.dll.config
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\DAL.dll
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\DAL.pdb
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\EntityFramework.dll
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\DTO.dll
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\bin\Debug\DTO.pdb
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\obj\Debug\DAL.dll
+E:\תקיות משתמש\Desktop\מחובר עובד פרויקט\‏‏FinalProject - עותק\DAL\obj\Debug\DAL.pdb
+E:\rutti\react\for the project\end-project\server\DAL\bin\Debug\DAL.dll.config
+E:\rutti\react\for the project\end-project\server\DAL\bin\Debug\DAL.dll
+E:\rutti\react\for the project\end-project\server\DAL\bin\Debug\DAL.pdb
+E:\rutti\react\for the project\end-project\server\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\rutti\react\for the project\end-project\server\DAL\bin\Debug\EntityFramework.dll
+E:\rutti\react\for the project\end-project\server\DAL\bin\Debug\DTO.dll
+E:\rutti\react\for the project\end-project\server\DAL\bin\Debug\DTO.pdb
+E:\rutti\react\for the project\end-project\server\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\rutti\react\for the project\end-project\server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\rutti\react\for the project\end-project\server\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\rutti\react\for the project\end-project\server\DAL\obj\Debug\DAL.dll
+E:\rutti\react\for the project\end-project\server\DAL\obj\Debug\DAL.pdb

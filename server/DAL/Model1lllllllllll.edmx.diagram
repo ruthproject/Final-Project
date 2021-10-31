@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3920134a911c4da59c1460b257870a4e" Name="Diagram1">
+        <EntityTypeShape EntityType="ProjectsManagementModel.TAssistant" Width="1.5" PointX="3" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TAssistantHour" Width="1.5" PointX="5.25" PointY="22.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TAssistantToProject" Width="1.5" PointX="5.25" PointY="18.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TDestinationGroup" Width="1.5" PointX="5.25" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TDestinationType" Width="1.5" PointX="3" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TDocument" Width="1.5" PointX="5.25" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TDocumentType" Width="1.5" PointX="3" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TGrade" Width="1.5" PointX="3" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TListValue" Width="1.5" PointX="3" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TMessage" Width="1.5" PointX="6" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TParameter" Width="1.5" PointX="0.75" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TPermission" Width="1.5" PointX="1.5" PointY="27" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TProfession" Width="1.5" PointX="0.75" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TProject" Width="1.5" PointX="3" PointY="18.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TSchool" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TStatu" Width="1.5" PointX="3" PointY="16.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TStudent" Width="1.5" PointX="8.25" PointY="17.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectsManagementModel.TUser" Width="1.5" PointX="0.75" PointY="22.375" IsExpanded="true" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TAssistant_TUser" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TAssistantHours_TAssistant" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TAssistantToProject_TAssistant" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TAssistantHours_TStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TAssistantToProject_TProject" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TDestinationGroup_TDestinationType" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TDestinationGroup_TGrade" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TDestinationType_TProfession1" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TDocument_TDocumentType" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TDocument_TProject" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TDocumentType_TProfession" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TGrade_TSchool" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TMessage_TGrade" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TStudent_TGrade" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TListValues_TParameter" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TListValues_TProfession" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TMessage_TProfession" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TMessage_TSchool" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TUser_TPermission" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TProject_TProfession" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TStudent_TProject" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TStudent_TSchool" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectsManagementModel.FK_TStudent_TUser1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

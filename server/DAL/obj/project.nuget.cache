@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8mhx1x6/PtJg87Yw9vaF2hRNF4rcUuIMmnJ2tl5+POUcyPeLl8B1afx4GUA+1p+p5Pgvd1unpOddMUnLOEPecw==",
+  "success": true,
+  "projectFilePath": "E:\\rutti\\react\\for the project\\end-project\\server\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProjectsManagementModelStoreContainer" CdmEntityContainer="ProjectsManagementEntities">
+    <EntitySetMapping Name="TAssistants">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TAssistant">
+        <MappingFragment StoreEntitySet="TAssistant">
+          <ScalarProperty Name="AssistantId" ColumnName="AssistantId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ProfessionId" ColumnName="ProfessionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TAssistantHours">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TAssistantHour">
+        <MappingFragment StoreEntitySet="TAssistantHours">
+          <ScalarProperty Name="AssistantHoursId" ColumnName="AssistantHoursId" />
+          <ScalarProperty Name="AssistantId" ColumnName="AssistantId" />
+          <ScalarProperty Name="BeginningTime" ColumnName="BeginningTime" />
+          <ScalarProperty Name="EndTime" ColumnName="EndTime" />
+          <ScalarProperty Name="WathToDo" ColumnName="WathToDo" />
+          <ScalarProperty Name="ProjectId" ColumnName="ProjectId" />
+          <ScalarProperty Name="finishChores" ColumnName="finishChores" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TAssistantToProjects">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TAssistantToProject">
+        <MappingFragment StoreEntitySet="TAssistantToProject">
+          <ScalarProperty Name="AssistantToProjectId" ColumnName="AssistantToProjectId" />
+          <ScalarProperty Name="IdAssistant" ColumnName="IdAssistant" />
+          <ScalarProperty Name="IdProject" ColumnName="IdProject" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TDestinationGroups">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TDestinationGroup">
+        <MappingFragment StoreEntitySet="TDestinationGroup">
+          <ScalarProperty Name="DestinationId" ColumnName="DestinationId" />
+          <ScalarProperty Name="GradeId" ColumnName="GradeId" />
+          <ScalarProperty Name="DestinationTypeId" ColumnName="DestinationTypeId" />
+          <ScalarProperty Name="DestinationDate" ColumnName="DestinationDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TDestinationTypes">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TDestinationType">
+        <MappingFragment StoreEntitySet="TDestinationType">
+          <ScalarProperty Name="DestinationTypeId" ColumnName="DestinationTypeId" />
+          <ScalarProperty Name="DestinationTypeName" ColumnName="DestinationTypeName" />
+          <ScalarProperty Name="ProfessionId" ColumnName="ProfessionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TDocuments">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TDocument">
+        <MappingFragment StoreEntitySet="TDocument">
+          <ScalarProperty Name="DocumentId" ColumnName="DocumentId" />
+          <ScalarProperty Name="DocumentTypeId" ColumnName="DocumentTypeId" />
+          <ScalarProperty Name="ProjectId" ColumnName="ProjectId" />
+          <ScalarProperty Name="DateSubmission" ColumnName="DateSubmission" />
+          <ScalarProperty Name="IsApprove" ColumnName="IsApprove" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TDocumentTypes">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TDocumentType">
+        <MappingFragment StoreEntitySet="TDocumentType">
+          <ScalarProperty Name="DocumentTypeId" ColumnName="DocumentTypeId" />
+          <ScalarProperty Name="DocumentTypeName" ColumnName="DocumentTypeName" />
+          <ScalarProperty Name="ProfessionId" ColumnName="ProfessionId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TGrades">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TGrade">
+        <MappingFragment StoreEntitySet="TGrade">
+          <ScalarProperty Name="GradeId" ColumnName="GradeId" />
+          <ScalarProperty Name="GradeName" ColumnName="GradeName" />
+          <ScalarProperty Name="GradeIdSchool" ColumnName="GradeIdSchool" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TListValues">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TListValue">
+        <MappingFragment StoreEntitySet="TListValues">
+          <ScalarProperty Name="IdListprameter" ColumnName="IdListprameter" />
+          <ScalarProperty Name="IdParameter" ColumnName="IdParameter" />
+          <ScalarProperty Name="IdProfession" ColumnName="IdProfession" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TMessages">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TMessage">
+        <MappingFragment StoreEntitySet="TMessage">
+          <ScalarProperty Name="MessageId" ColumnName="MessageId" />
+          <ScalarProperty Name="IdSchool" ColumnName="IdSchool" />
+          <ScalarProperty Name="IdGrade" ColumnName="IdGrade" />
+          <ScalarProperty Name="IdProfession" ColumnName="IdProfession" />
+          <ScalarProperty Name="StudentsOrAssistants" ColumnName="StudentsOrAssistants" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TParameters">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TParameter">
+        <MappingFragment StoreEntitySet="TParameter">
+          <ScalarProperty Name="ParameterId" ColumnName="ParameterId" />
+          <ScalarProperty Name="ParameterName" ColumnName="ParameterName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TPermissions">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TPermission">
+        <MappingFragment StoreEntitySet="TPermission">
+          <ScalarProperty Name="PermissionId" ColumnName="PermissionId" />
+          <ScalarProperty Name="PermissionName" ColumnName="PermissionName" />
+          <ScalarProperty Name="PermissionValue" ColumnName="PermissionValue" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TProfessions">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TProfession">
+        <MappingFragment StoreEntitySet="TProfession">
+          <ScalarProperty Name="ProfessionId" ColumnName="ProfessionId" />
+          <ScalarProperty Name="ProfessionName" ColumnName="ProfessionName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TProjects">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TProject">
+        <MappingFragment StoreEntitySet="TProject">
+          <ScalarProperty Name="ProjectId" ColumnName="ProjectId" />
+          <ScalarProperty Name="ProjectName" ColumnName="ProjectName" />
+          <ScalarProperty Name="IdProfession" ColumnName="IdProfession" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="IdBeforeProject" ColumnName="IdBeforeProject" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TSchools">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TSchool">
+        <MappingFragment StoreEntitySet="TSchool">
+          <ScalarProperty Name="SchoolId" ColumnName="SchoolId" />
+          <ScalarProperty Name="SchoolName" ColumnName="SchoolName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TStatus">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TStatu">
+        <MappingFragment StoreEntitySet="TStatus">
+          <ScalarProperty Name="StatusId" ColumnName="StatusId" />
+          <ScalarProperty Name="StatusName" ColumnName="StatusName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TStudents">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TStudent">
+        <MappingFragment StoreEntitySet="TStudent">
+          <ScalarProperty Name="StudentId" ColumnName="StudentId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="PreviousName" ColumnName="PreviousName" />
+          <ScalarProperty Name="IdProject" ColumnName="IdProject" />
+          <ScalarProperty Name="IdUser" ColumnName="IdUser" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="GradeId" ColumnName="GradeId" />
+          <ScalarProperty Name="FinalMark" ColumnName="FinalMark" />
+          <ScalarProperty Name="IdSchool" ColumnName="IdSchool" />
+          <ScalarProperty Name="ProfessionId" ColumnName="ProfessionId" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TUsers">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.TUser">
+        <MappingFragment StoreEntitySet="TUser">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserPermissionId" ColumnName="UserPermissionId" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="NumbarPhone" ColumnName="NumbarPhone" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="projects_students">
+      <EntityTypeMapping TypeName="ProjectsManagementModel.projects_students">
+        <MappingFragment StoreEntitySet="projects_students">
+          <ScalarProperty Name="ProjectId" ColumnName="ProjectId" />
+          <ScalarProperty Name="ProjectName" ColumnName="ProjectName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="IdUser" ColumnName="IdUser" />
+          <ScalarProperty Name="fullname" ColumnName="fullname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
